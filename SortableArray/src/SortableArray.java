@@ -15,7 +15,7 @@ public class SortableArray {
         int[] intArray = {3, 5, 1, 4, 2};
         String[] stringArray = {"banana", "apple", "cherry", "date"};
 
-        
+        //Display sorted interger array
         System.out.println("Sorted Integers: " + Arrays.toString(sortIntegers(intArray)));
         System.out.println("Sorted Strings: " + Arrays.toString(sortStrings(stringArray)));
     }
