@@ -12,8 +12,8 @@ public class SortableArray {
     }
 
     public static void main(String[] args) {
-        int[] intArray = {9, 4, 6, 1, 3};
-        String[] stringArray = {"pear", "orange", "banana", "apple"};
+        int[] intArray = {3, 5, 1, 4, 2};
+        String[] stringArray = {"banana", "apple", "cherry", "date"};
 
         
         System.out.println("Sorted Integers: " + Arrays.toString(sortIntegers(intArray)));
